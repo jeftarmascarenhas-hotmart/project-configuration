@@ -17,3 +17,7 @@ Help us create documentation by project
 
 # Front-end
 Help us create documentation by project
+
+---
+
+All rights reserved <img src="https://app-vlc.hotmart.com/images/icons/hotmart-logo.svg" alt="Hotmart" width="130" align="right">
