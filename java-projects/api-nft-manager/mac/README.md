@@ -6,13 +6,13 @@ Before start make sure if you do the basic java configuration using [JAVA DOC](.
 Loggin on VPN with FortiClient
 
 ## SSO LOGIN
-Change title(Stap 1) to title that make sense and change this description.
+Login to SSO
 
 ```shell
 hotctl sso login
 ```
 
-## Stap 3
+## AWS env config
 Adding env AWS to local, but you could set staging with `buildstaging=staging`
 
 ```shell
@@ -71,7 +71,6 @@ CLIENT_CREDENTIALS_SERVICE_API_WALLET_NFT_CLIENTID=f94d4c9e-538d-4dfe-948e-cdd38
 
 
 ## Solve Errors
-Change title(Stap 1) to title that make sense and change this description.
 
 If exist any error that was solved describe here
 
