@@ -1,4 +1,4 @@
 # Java Projects documentation
 
 - [Initial java configs](./java-projects/java/)
-- [API NFT MANAGER](./java-projects/api-nft-manager/)
+- [Api NFT Manager](./java-projects/api-nft-manager/)
