@@ -3,6 +3,8 @@ This document is for you use and share project configuration to help your teamat
 
 Feel free to create a pull request with new documentation or update existing documentation.
 
+If any documentation isn't update create a [issue](https://github.com/jeftarmascarenhas-hotmart/project-configuration/issues)
+
 # Back-end
 
 - [Java Projects](./java-projects/)
