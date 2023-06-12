@@ -5,6 +5,9 @@ Before start make sure if you do the basic java configuration using [JAVA DOC](.
 ## VPN with FortiClient
 Loggin on VPN with FortiClient
 
+## Zscaler Certification
+[Tutorial](https://docs.google.com/document/d/1Gfdqn0bxjlR8OtFSU2wtrlrDnPTBO6hGleQuBc_Gf8U/edit)
+
 ## SSO LOGIN
 Login to SSO
 
