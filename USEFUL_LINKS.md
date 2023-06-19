@@ -3,3 +3,5 @@ This document is for you share links that you understand interesting for trooper
 
 - Hotmart application center
 https://hotmart.okta.com/
+- Hotmart OKTA
+https://hotmart.okta.com/app/UserHome?session_hint=AUTHENTICATED
